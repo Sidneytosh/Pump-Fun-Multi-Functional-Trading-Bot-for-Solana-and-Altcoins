@@ -26,45 +26,58 @@
 
 <h2>🚀 Features</h2>
 
-<ul>
-    <li id="feature1"><strong>💸 Distribute SOL to many wallets</strong><br>
-        <em>Key Section: Distribution Strategy</em><br>
-        Efficiently distribute SOL to multiple wallets to enhance liquidity and manage risk.
-        <br><a href="#feature2" class="button" style="display:inline-block; padding:5px 10px; font-size:14px; color:white; background-color:#007BFF; text-decoration:none; border-radius:5px;">➡️ Next Feature</a>
-    </li>
-    <li id="feature2"><strong>🚀 Token launching with bundle buying from 24 wallets</strong><br>
-        <em>Key Section: Launch Strategy</em><br>
-        Facilitate token launches by enabling bundle buying from up to 24 wallets simultaneously.
-         </li>
-    <li id="feature3"><strong>🔍 Snipe token</strong><br>
-        <em>Key Section: Trading Strategy</em><br>
-        Implement snipe functionality to quickly purchase tokens at optimal moments.
-        </li>
-    <li id="feature4"><strong>📈 Increase volume</strong><br>
-        <em>Key Section: Market Activity</em><br>
-        Utilize strategies to boost trading volume and enhance market presence.
-        </li>
-    <li id="feature5"><strong>🤝 Increase buy makers and holders</strong><br>
-        <em>Key Section: Market Engagement</em><br>
-        Implement tactics to attract more buyers and retain token holders for long-term stability.
-         </li>
-    <li id="feature6"><strong>🔄 Simulate Transactions</strong><br>
-        <em>Key Section: Strategy Planning</em><br>
-        Test your trading strategies with simulated transactions before going live.
-        </li>
-    <li li id="feature7"><strong>💬 Auto commenting</strong><br>
-        <em>Key Section: Community Engagement</em><br>
-        Automate comments to engage with the community and promote tokens effectively.
-        </li>
-    <li id="feature8"><strong>📦 Bundle Selling</strong><br>
-        <em>Key Section: Sales Strategy</em><br>
-        Enable bundle selling to increase sales efficiency and user engagement.
-       </li>
-    <li id="feature9"><strong>🌐 Gather SOL</strong><br>
-        <em>Key Section: Asset Management</em><br>
-        Strategically gather SOL to optimize asset management and liquidity.
-       </li>
-</ul>
+<h3>💸 Distribute SOL to Many Wallets</h3>
+<em>Key Section: Distribution Strategy</em><br>
+Efficiently distribute SOL to multiple wallets to enhance liquidity and manage risk.
+
+<hr>
+
+<h3>🚀 Token Launching with Bundle Buying from 24 Wallets</h3>
+<em>Key Section: Launch Strategy</em><br>
+Facilitate token launches by enabling bundle buying from up to 24 wallets simultaneously.
+
+<hr>
+
+<h3>🔍 Snipe Token</h3>
+<em>Key Section: Trading Strategy</em><br>
+Implement snipe functionality to quickly purchase tokens at optimal moments.
+
+<hr>
+
+<h3>📈 Increase Volume</h3>
+<em>Key Section: Market Activity</em><br>
+Utilize strategies to boost trading volume and enhance market presence.
+
+<hr>
+
+<h3>🤝 Increase Buy Makers and Holders</h3>
+<em>Key Section: Market Engagement</em><br>
+Implement tactics to attract more buyers and retain token holders for long-term stability.
+
+<hr>
+
+<h3>🔄 Simulate Transactions</h3>
+<em>Key Section: Strategy Planning</em><br>
+Test your trading strategies with simulated transactions before going live.
+
+<hr>
+
+<h3>💬 Auto Commenting</h3>
+<em>Key Section: Community Engagement</em><br>
+Automate comments to engage with the community and promote tokens effectively.
+
+<hr>
+
+<h3>📦 Bundle Selling</h3>
+<em>Key Section: Sales Strategy</em><br>
+Enable bundle selling to increase sales efficiency and user engagement.
+
+<hr>
+
+<h3>🌐 Gather SOL</h3>
+<em>Key Section: Asset Management</em><br>
+Strategically gather SOL to optimize asset management and liquidity.
+
 
 <h2>📥 Installation</h2>
 
