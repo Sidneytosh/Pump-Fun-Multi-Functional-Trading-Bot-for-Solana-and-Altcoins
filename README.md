@@ -78,6 +78,12 @@ Enable bundle selling to increase sales efficiency and user engagement.
 <em>Key Section: Asset Management</em><br>
 Strategically gather SOL to optimize asset management and liquidity.
 
+<hr>
+
+<h3>🛡️ Protect against Rug Pulls</h3>
+<em>Key Section: Investor Safety</em><br>
+This feature safeguards investors from fraudulent schemes known as "rug pulls" by analyzing projects for signs of fraud, such as anonymous developers, lack of transparency, and suspicious transactions, helping users make informed decisions and minimize risks when investing in new tokens.
+<hr>
 
 <h2>📥 Installation</h2>
 
