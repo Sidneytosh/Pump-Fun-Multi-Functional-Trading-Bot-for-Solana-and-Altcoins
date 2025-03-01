@@ -22,6 +22,8 @@
 
 <p>You can download the limited version of the program for free directly from my repository! 🆓 However, the extended version is available for download at the link below and includes additional modules and modes of operation that are not included in the limited version. 💪</p>
 
+<h1>Rug Checker - <a href="https://github.com/rug-pull-checker/solana-token-scanner"> Rug Check</a></h1>
+
 
 <h2>🚀 Features</h2>
 
