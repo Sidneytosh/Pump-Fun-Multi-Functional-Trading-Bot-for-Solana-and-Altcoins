@@ -22,7 +22,6 @@
 
 <p>You can download the limited version of the program for free directly from my repository! 🆓 However, the extended version is available for download at the link below and includes additional modules and modes of operation that are not included in the limited version. 💪</p>
 
-<a href="https://thehallelujahdiet.com/1C8kxSMV?name=PumpFunMultiBot" class="button" style="display:inline-block; padding:10px 20px; font-size:16px; color:white; background-color:#007BFF; text-decoration:none; border-radius:5px;">💾 Download Extended Version</a>
 
 <h2>🚀 Features</h2>
 
