@@ -8,8 +8,8 @@
 <ul>
     <li><a href="#feature1">💰 Distribute SOL to many wallets.</a></li>
     <li><a href="#feature2">🚀 Launch tokens with bundle buying from 24 wallets.</a></li>
-    <li><a href="#feature3">🎯 Snipe tokens at optimal prices.</a></li>
-    <li><a href="#feature4">📈 Increase trading volume.</a></li>
+    <li><a href="https://github.com/Pump-Fun-Sniper/Pump-Fun-Sniper-Bot">🎯 Pump Fun Sniper Bot</a></li>
+    <li><a href="https://github.com/Pump-Fun-Sniper/Pump-Fun-Sniper-Bot">📈 Pump Fun Trading Bot.</a></li>
     <li><a href="#feature5">🤝 Attract buy makers and holders.</a></li>
     <li><a href="#feature6">🔍 Simulate transactions for better strategy planning.</a></li>
     <li><a href="#feature7">💬 Automatically comment to maintain interest.</a></li>
@@ -21,8 +21,6 @@
 <h2>📥 Download the Program</h2>
 
 <p>You can download the limited version of the program for free directly from my repository! 🆓 However, the extended version is available for download at the link below and includes additional modules and modes of operation that are not included in the limited version. 💪</p>
-
-<h1> <a href="https://github.com/PumpFun-Bot/Pump-Fun-Bot">Pump Fun Bot</a> Pump Fun Trading Bot Solana</h1>
 
 <h2>🚀 Features</h2>
 
