@@ -36,13 +36,13 @@ Facilitate token launches by enabling bundle buying from up to 24 wallets simult
 
 <hr>
 
-<h3 id="feature3">🔍 Snipe Token</h3>
+<h3 id="feature3">🔍 Snipe Token with <a href="https://github.com/Pump-Fun-Sniper/Pump-Fun-Sniper-Bot">Pump Fun Sniper Bot</a></h3>
 <em>Key Section: Trading Strategy</em><br>
 Implement snipe functionality to quickly purchase tokens at optimal moments.
 
 <hr>
 
-<h3 id="feature4">📈 Increase Volume</h3>
+<h3 id="feature4">📈 Increase Volume With <a href="https://github.com/Pump-Fun-Sniper/Pump-Fun-Sniper-Bot">Pump Fun Trading Bot</a> </h3>
 <em>Key Section: Market Activity</em><br>
 Utilize strategies to boost trading volume and enhance market presence.
 
