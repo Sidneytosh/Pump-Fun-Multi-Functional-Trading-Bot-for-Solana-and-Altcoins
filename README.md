@@ -1,4 +1,4 @@
-<h1 align="center">🚀 <strong>Pump Fun Multi-Functional Trading Bot for Solana</strong> 🚀</h1>
+# Pump Fun Trading Bot for Solana #
 
 <h2>📊 Overview</h2>
 
