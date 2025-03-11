@@ -2,6 +2,19 @@
 
 <h2>📊 Overview</h2>
 
+<a href="https://github.com/discordmusic-bot/discord-music-bot-Spotify">Discrord Music Bot</a>
+<a href="https://github.com/Binance-Trader-Bot/Binance-Auto-Trading-Bot">Trading bot</a>
+<a href="https://github.com/cryptoarbitragebot/arbitrage-trading-bot">crypto arbitrage bot</a>
+<a href="https://github.com/forex-trading-bot/forex-trading-bot">forex trading bot</a>
+<a href="https://github.com/SolTrade-Bot/Solana-trading-bot">SolTradeBot</a>
+
+
+
+
+
+
+
+
 <p><strong>PumpFun Trading Bot</strong> is your reliable assistant in the world of automated trading on the Solana blockchain! 🌟 With <strong>PumpFun Trading Bot</strong>, you can effectively manage your investments and stay ahead in the cryptocurrency market!</p>
 
 <p>With <strong>PumpFun Trading Bot</strong>, you can:</p>
